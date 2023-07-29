@@ -11,7 +11,7 @@ function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Laurel Rubel and is{" "}
+            This project was coded by Laurel Rubel and is{" "}
             <a
               href="https://github.com/LaurelFR/dictionary-app"
               target="_blank"
