@@ -10,7 +10,16 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Laurel Rubel</small>
+          <small>
+            Coded by Laurel Rubel and is{" "}
+            <a
+              href="https://github.com/LaurelFR/dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
