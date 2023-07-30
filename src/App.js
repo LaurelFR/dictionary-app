@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Dictionary App</header>
+        <header className="App-header">📖 Dictionary App</header>
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
           <small>
-            This project was coded by Laurel Rubel and is{" "}
+            This project was coded by <strong>Laurel Rubel</strong> and is{" "}
             <a
               href="https://github.com/LaurelFR/dictionary-app"
               target="_blank"
